@@ -1,1 +1,1 @@
-# Testing API for Udemy
+# Testing API for OpenStreetMap
