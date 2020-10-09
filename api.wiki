@@ -1,1 +1,0 @@
-Практика curl (POST, PUT, GET, DELETE): https://starkovden.github.io/use-methods-with-curl.html
