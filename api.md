@@ -111,8 +111,6 @@ python -m json.tool my_json.json
 ```
 alias prettyjson='python -m json.tool'
 ```
-Источник: https://stackoverflow.com/questions/352098/how-can-i-pretty-print-json-in-a-shell-script
-
 Подробно:
 ```
 curl -v http://www.example.com/
@@ -150,6 +148,7 @@ curl -d @request.json -H "Content-Type: application/json" -H "Accept: applicatio
 curl --user baeldung:secretPassword http://example.com/
 ```
 Для OAuth2 аутентификации (сначала получить access_token из службы авторизации):
+
 пример ответа:
 ```javascript
 {
